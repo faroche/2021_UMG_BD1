@@ -8,3 +8,5 @@ Necesitamos tener Azure Data Studio instalado [Link para descarga](https://docs.
 - [X] Explicación de Lenguaje de Definición de Datos - DDL y Lenguaje de Control de Datos DCL (Seguridad) -> **clase#7_DDL.ipynb**
 - [X] Explicación de Lenguaje de Manipulación de Datos DML -> **clase#8_DML.ipynb**
 - [ ] Otros temas
+
+
