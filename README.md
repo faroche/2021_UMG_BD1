@@ -1,4 +1,4 @@
-# UMG - Base de Datos 1
+# UMG - Curso: Base de Datos 1
 Acá estaré posteando la documentación de curso con ejemplos para que los puedan descargar, leer y ejecutar desde su computadora. Para lo cual dejare una serie de Jupyter Notebooks.
 
 ## Qué necesitamos para correr el código en una base de datos?
